@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name     = 'POP+MCAnimate'
   s.version  = '2.0.1'
-  s.platform = :ios, '7.0'
+  s.platform = :osx, '10.13'
   s.license  = { :type => 'MIT', :file => 'LICENSE' }
   s.summary  = 'Concise syntax for the Pop animation framework.'
   s.homepage = 'https://github.com/matthewcheok/POP-MCAnimate'
